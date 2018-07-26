@@ -1,4 +1,4 @@
-def display_board (board)
+def display_board(board)
 separate = "|"
 lines = "-----------"
   puts "#{board[0]} #{separate} #{board[1]} #{separate} #{board[2]}"
