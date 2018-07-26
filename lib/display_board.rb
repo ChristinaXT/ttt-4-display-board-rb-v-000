@@ -1,7 +1,7 @@
 def display_board(board)
 separate = "|"
 lines = "-----------"
-board = (x, )
+board = ("X"," ","X"," ","O","O","X","O"," ")
   puts "#{board[0]}#{separate}#{board[1]}#{separate}#{board[2]}"
   puts "#{lines}"
   puts "#{board[3]}#{separate}#{board[4]}#{separate}#{board[5]}"
