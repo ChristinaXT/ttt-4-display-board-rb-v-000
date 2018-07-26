@@ -6,5 +6,5 @@ lines = "-----------"
   puts "#{board[3]}#{separate}#{board[4]}#{separate}#{board[5]}"
   puts "#{lines}"
   puts "#{board[6]}#{separate}#{board[7]}#{separate}#{board[8]}"
-end 
-
+  end 
+end
